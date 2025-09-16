@@ -1,4 +1,4 @@
-# Task 1: Perform Basic Mathematical Operations
+# Task 1:
 
 # Taking two numbers from user
 num1 = float(input("Enter the first number: "))
@@ -23,7 +23,7 @@ print("Multiplication:", multiplication)
 print("Division:", division)
 
 
-# Task 2: Personalized Greeting
+# Task 2:
 
 # Taking user's first and last name
 first_name = input("\nEnter your first name: ")
@@ -34,6 +34,7 @@ full_name = first_name + " " + last_name
 
 # Displaying personalized greeting
 print("Hello,", full_name + "! Welcome to Python programming.")
+
 
 
 
