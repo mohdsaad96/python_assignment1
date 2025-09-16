@@ -1,2 +1,2 @@
 # python_assignment1
-i am Mohd Saad. this is my assignment repository for submitting assignment to TUDEDUDE
+ THIS PYTHON ASSIGNMENT1 TASK 1 AND TASK 2
